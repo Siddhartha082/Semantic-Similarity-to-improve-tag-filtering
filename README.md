@@ -3,6 +3,8 @@ Algorithm: **Semantic Tag Filtering**<br>
 Author: **Michelangiolo Mazzeschi**<br>
 Published: **2nd September 2024**
 
+# Ref - https://towardsdatascience.com/introducing-semantic-tag-filtering-enhancing-retrieval-with-tag-similarity-4f1b2d377a10
+
 # simtag, semantic tag filtering made easy
 
 The following library [is based on the following technical article](https://medium.com/towards-data-science/introducing-semantic-tag-filtering-enhancing-retrieval-with-tag-similarity-4f1b2d377a10), and aims to introduce semantic search **in tag filtering** using vector-encoded relationships to maximize the overall relevance of the tags.
